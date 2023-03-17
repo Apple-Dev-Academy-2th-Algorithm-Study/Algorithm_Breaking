@@ -114,7 +114,7 @@
     </td>
      <td align="center">
       <a href="https://solved.ac/gkahsdl">
-        <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=gkahsdl">
+        <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=Hayun218">
       </a>
       <br />
       Python
