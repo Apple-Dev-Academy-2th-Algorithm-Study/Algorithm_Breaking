@@ -54,6 +54,13 @@
         <sub>😀 김형민 (Henry)</sub>
       </a>
     </td>
+    <td align="center">
+      <a href="">
+        <img src="" width="100px;" alt=""/>
+        <br />
+        <sub>😀 박하윤 (Lia)</sub>
+      </a>
+    </td>
   </tr>
   <tr>
     <td align="center">
@@ -104,6 +111,13 @@
       </a>
       <br />
      Python
+    </td>
+     <td align="center">
+      <a href="https://solved.ac/gkahsdl">
+        <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=gkahsdl">
+      </a>
+      <br />
+      Python
     </td>
   </tr>
 </table>
