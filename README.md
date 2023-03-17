@@ -49,7 +49,7 @@
     </td>
      <td align="center">
       <a href="">
-        <img src="" width="100px;" alt=""/>
+        <img src="https://avatars.githubusercontent.com/u/106143629?v=4" width="100px;" alt=""/>
         <br />
         <sub>🐻 김형민 (Henry)</sub>
       </a>
