@@ -55,8 +55,8 @@
       </a>
     </td>
     <td align="center">
-      <a href="">
-        <img src="" width="100px;" alt=""/>
+      <a href="https://github.com/Hayun218">
+        <img src="https://avatars.githubusercontent.com/u/44897331?v=4" width="100px;" alt=""/>
         <br />
         <sub>😀 박하윤 (Lia)</sub>
       </a>
@@ -114,7 +114,7 @@
     </td>
      <td align="center">
       <a href="https://solved.ac/gkahsdl">
-        <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=Hayun218">
+        <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=gkahsdl">
       </a>
       <br />
       Python
