@@ -51,7 +51,7 @@
       <a href="">
         <img src="" width="100px;" alt=""/>
         <br />
-        <sub>😀 김형민 (Henry)</sub>
+        <sub>🐻 김형민 (Henry)</sub>
       </a>
     </td>
     <td align="center">
