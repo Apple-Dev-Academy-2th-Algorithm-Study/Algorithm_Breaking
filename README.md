@@ -1,5 +1,5 @@
 # 🍏 Apple Developer Academy @ POSTECH 2th - Algorithm Study 🍎
-애플 개발자 아카데미 알고리즘 스터디 - 알고리즘 안알랴즘
+Apple Developer Academy @ POSTECH 2th - 알고리즘 안알랴즘
 <br>
 
 ## 👨‍💻 Study Member 👩‍💻
