@@ -82,14 +82,14 @@ Apple Developer Academy @ POSTECH 2th - 알고리즘 안알랴즘
         <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=rei1998">
       </a>
       <br />
-      Python
+      Python, Swift
     </td>
     <td align="center">
       <a href="https://solved.ac/kyunghwaisdev">
         <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=kyunghwaisdev">
       </a>
       <br />
-      Python
+      Swift
     </td>
     <td align="center">
       <a href="https://solved.ac/tkddyd2580">
