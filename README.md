@@ -40,6 +40,45 @@ Apple Developer Academy @ POSTECH 2th - 알고리즘 안알랴즘
         <sub>🐮 신상용 (N.D)</sub>
       </a>
     </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://solved.ac/jdh1109ok">
+        <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=jdh1109ok">
+      </a>
+      <br />
+      Java, Swift
+    </td>
+    <td align="center">
+      <a href="https://solved.ac/kpk0616">
+        <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=kpk0616">
+      </a>
+      <br />
+     Python, Swift
+    </td>
+    <td align="center">
+      <a href="https://solved.ac/rei1998">
+        <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=rei1998">
+      </a>
+      <br />
+      Python
+    </td>
+    <td align="center">
+      <a href="https://solved.ac/kyunghwaisdev">
+        <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=kyunghwaisdev">
+      </a>
+      <br />
+      Python, Swift
+    </td>
+    <td align="center">
+      <a href="https://solved.ac/tkddyd2580">
+        <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=tkddyd2580">
+      </a>
+      <br />
+      C++
+    </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/KLJH1025">
         <img src="https://avatars.githubusercontent.com/u/99160103?v=4" width="100px;" alt=""/>
@@ -71,42 +110,7 @@ Apple Developer Academy @ POSTECH 2th - 알고리즘 안알랴즘
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <a href="https://solved.ac/jdh1109ok">
-        <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=jdh1109ok">
-      </a>
-      <br />
-      Java, Swift
-    </td>
-    <td align="center">
-      <a href="https://solved.ac/kpk0616">
-        <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=kpk0616">
-      </a>
-      <br />
-     Python, Swift
-    </td>
-    <td align="center">
-      <a href="https://solved.ac/rei1998">
-        <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=rei1998">
-      </a>
-      <br />
-      Python
-    </td>
-    <td align="center">
-      <a href="https://solved.ac/kyunghwaisdev">
-        <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=kyunghwaisdev">
-      </a>
-      <br />
-      Python
-    </td>
-    <td align="center">
-      <a href="https://solved.ac/tkddyd2580">
-        <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=tkddyd2580">
-      </a>
-      <br />
-      C++
-    </td>
-    <td align="center">
+     <td align="center">
       <a href="https://solved.ac/dusk3315">
         <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=dusk3315">
       </a>
