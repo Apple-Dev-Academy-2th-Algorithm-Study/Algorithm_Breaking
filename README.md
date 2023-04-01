@@ -61,6 +61,14 @@ Apple Developer Academy @ POSTECH 2th - 알고리즘 안알랴즘
         <sub>😀 박하윤 (Lia)</sub>
       </a>
     </td>
+      </td>
+    <td align="center">
+      <a href="https://github.com/yongbeomkwak">
+        <img src="https://avatars.githubusercontent.com/u/48616183?v=4" width="100px;" alt=""/>
+        <br />
+        <sub>🕊️ 곽용범 (Kyle)</sub>
+      </a>
+    </td>
   </tr>
   <tr>
     <td align="center">
@@ -78,7 +86,7 @@ Apple Developer Academy @ POSTECH 2th - 알고리즘 안알랴즘
      Python, Swift
     </td>
     <td align="center">
-      <a href="https://solved.ac/hsk10271">
+      <a href="https://solved.ac/rei1998">
         <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=rei1998">
       </a>
       <br />
@@ -118,6 +126,13 @@ Apple Developer Academy @ POSTECH 2th - 알고리즘 안알랴즘
       </a>
       <br />
       Python
+    </td>
+     <td align="center">
+      <a href="https://solved.ac/kwak2418">
+        <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=kwak2418">
+      </a>
+      <br />
+     C++, Python
     </td>
   </tr>
 </table>
