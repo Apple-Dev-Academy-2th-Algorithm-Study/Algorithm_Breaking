@@ -184,6 +184,11 @@ Apple Developer Academy @ POSTECH 2th - 알고리즘 안알랴즘
 #### 1주차 (2023.3.17 ~ 2023.3.28) - 기초 다지기, 언어 적응하기
   - <strong> Problem </strong> (BOJ 10952, 2446, 10828, 10845, 9093, 10866, 1974) <br>
   [Week 1 Problem Set](https://www.acmicpc.net/group/workbook/view/17276/55268)
-#### 2주차 (2023.3.29 ~ 2023.4.4) - Stack, Queue 응용
+  
+#### 2주차 (2023.3.29 ~ 2023.4.4) - Stack 응용
   - <strong> Problem </strong> (BOJ 17413, 4949, 1406, 10700, 17298) <br>
   [Week 2 Problem Set](https://www.acmicpc.net/group/workbook/view/17276/56030)
+  
+#### 3주차 (2023.4.5 ~ 2023.4.17) - Queue 응용
+ - <strong> Problem </strong> (BOJ 2161, 18258, 1158, 1966, 3190) <br>
+  [Week 3 Problem Set](https://www.acmicpc.net/group/workbook/view/17276/56488)
