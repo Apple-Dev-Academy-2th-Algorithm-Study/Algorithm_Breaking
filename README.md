@@ -196,3 +196,7 @@ Apple Developer Academy @ POSTECH 2th - 알고리즘 안알랴즘
 #### 4주차 (2023.4.18 ~ 2023.4.24) - 재귀 (Recursion)
  - <strong> Problem </strong> (BOJ 17478, 10994, 1780, 1662) <br>
   [Week 4 Problem Set](https://www.acmicpc.net/group/workbook/view/17276/56924)
+  
+#### 5주차 (2023.4.25 ~ 2023.5.1) - 트리 (Tree)
+ - <strong> Problem </strong> (BOJ 11725, 1991, 1141, 1068) <br>
+  [Week 5 Problem Set](https://www.acmicpc.net/group/workbook/view/17276/57011)
